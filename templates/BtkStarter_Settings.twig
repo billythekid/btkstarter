@@ -1,0 +1,25 @@
+{#
+/**
+ * BTK Starter plugin for Craft CMS
+ *
+ * BTK Starter Settings.twig
+ *
+ * @author    Billy Fagan
+ * @copyright Copyright (c) 2016 Billy Fagan
+ * @link      http://billyfagan.co.uk
+ * @package   BtkStarter
+ * @since     1.0.0
+ */
+#}
+
+{% import "_includes/forms" as forms %}
+{% for plugin in settings.plugins %}
+  {{ forms.checkboxField({
+    label: plugin.name,
+    instructions: plugin.description,
+    id: plugin.pluginFolderName,
+    name: plugin.pluginFolderName,
+    checked: plugin.checked,
+    value: plugin.downloadUrl ~ ' ' ~ plugin.pluginFolderName
+  }) }}
+{% endfor %}
