@@ -27,6 +27,9 @@ This plugin simply pulls in a bunch of other plugins into a craft setup. The cur
 * Sitemap: Makes sitemap.xml files - https://github.com/joshuabaker/craft-sitemap
 * Retour: Redirect legacy URLs- https://github.com/nystudio107/retour
 
+To use it, click install in the plugins page on your craft install then go to the plugin's settings page and check off the plugins you want to use in your project. 
+Click save and it'll go off and start pulling the latest versions of these from their master branches on github. This can take some time so there's a chance you'll hit your PHP max_execution_time limit. 
+The page'll reldirect to the plugins page when it's done and you can install whichever ones you want from there.
 
 ## BTK Starter Changelog
 
