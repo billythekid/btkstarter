@@ -17,7 +17,7 @@ This plugin simply pulls in a bunch of other plugins into a craft setup. The cur
 * Inspector: Debug stuff in the templates - https://github.com/amacneil/craft-inspector
 * Expanded Singles: Show singles in the menu rather than in a dropdown thing - https://github.com/engram-design/ExpandedSingles
 * Inventory: Shows where fields are being used - https://github.com/lindseydiloreto/craft-inventory
-* Relabel: Reuse craft fields but change the label/helper text on a per-entry type basis - https://github.com/benjamminf/craft-relabel
+* Relabel: Reuse craft fields but change the label/helper text on a per-entry-type basis - https://github.com/benjamminf/craft-relabel
 * Quick Field: Add new fields when in the section layout drag n drop editor - https://github.com/benjamminf/craft-quick-field
 * Reasons: Conditionally show or hide fields - https://github.com/mmikkel/Reasons-Craft
 * Supertables: Table fields with extraa stuff - https://github.com/engram-design/SuperTable
