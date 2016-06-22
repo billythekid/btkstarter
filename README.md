@@ -19,6 +19,7 @@ This plugin simply pulls in a bunch of other plugins into a craft setup. The cur
 * Inventory: Shows where fields are being used - https://github.com/lindseydiloreto/craft-inventory
 * Relabel: Reuse craft fields but change the label/helper text on a per-entry-type basis - https://github.com/benjamminf/craft-relabel
 * Quick Field: Add new fields when in the section layout drag n drop editor - https://github.com/benjamminf/craft-quick-field
+* Field Manager is a Craft CMS plugin to help make it easy to manage your fields and field groups. - https://github.com/engram-design/FieldManager
 * Reasons: Conditionally show or hide fields - https://github.com/mmikkel/Reasons-Craft
 * Supertables: Table fields with extraa stuff - https://github.com/engram-design/SuperTable
 * Guest Entries: Create entries while not logged in - https://github.com/pixelandtonic/GuestEntries
