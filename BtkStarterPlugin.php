@@ -211,6 +211,13 @@ class BtkStarterPlugin extends BasePlugin
                         "checked"          => false,
                     ],
                     [
+                        "name"             => "Field Manager",
+                        "pluginFolderName" => "fieldmanager",
+                        "downloadUrl"      => "https://github.com/engram-design/FieldManager/trunk/fieldmanager",
+                        "description"      => "Field Manager is a Craft CMS plugin to help make it easy to manage your fields and field groups. - https://github.com/engram-design/FieldManager",
+                        "checked"          => false,
+                    ],
+                    [
                         "name"             => "Reasons",
                         "pluginFolderName" => "reasons",
                         "downloadUrl"      => "https://github.com/mmikkel/Reasons-Craft/trunk/reasons",
